@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+sources/Database/
+sources/static/results
+sources/static/face
+id_cards
+venv
+crawler.py
